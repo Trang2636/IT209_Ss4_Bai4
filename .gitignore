@@ -1,0 +1,7 @@
+# File chứa thông tin nhạy cảm
+credentials.txt
+
+# File rác hệ thống
+*.log
+.DS_Store
+Thumbs.db

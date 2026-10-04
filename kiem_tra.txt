@@ -1,0 +1,12 @@
+$ git status
+nothing to commit, working tree clean
+
+$ git log -n 1
+commit ba45970d46c12d18671cd3cfd2b9727cde2e712a
+Author: Sinh vien <sinhvien@example.com>
+Date:   Sun Oct 4 13:06:17 2026 +0000
+
+    Cấu hình .gitignore và loại credentials khỏi theo dõi
+
+$ Test-Path credentials.txt
+True
